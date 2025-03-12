@@ -4,7 +4,7 @@ export default function Banner() {
   return (
     <div className="relative w-full h-[40vh] overflow-hidden">
       <Image
-        src={"/bannerBG.jpg"}
+        src={"/img/bannerBG.jpg"}
         alt="banner"
         className="absolute inset-0 w-full h-full object-cover"
         fill

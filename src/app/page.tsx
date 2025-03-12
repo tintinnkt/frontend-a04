@@ -12,9 +12,9 @@ export default function Page() {
         </h2>
 
         <div className="flex flex-wrap gap-8 w-full justify-start">
-          <Card venueName={"The Bloom Pavilion"} imgSrc="/bloom.jpg" />
-          <Card venueName={"Spark Space"} imgSrc="/sparkspace.jpg" />
-          <Card venueName={"The Grand Table"} imgSrc="/grandtable.jpg" />
+          <Card venueName={"The Bloom Pavilion"} imgSrc="/img/bloom.jpg" />
+          <Card venueName={"Spark Space"} imgSrc="/img/sparkspace.jpg" />
+          <Card venueName={"The Grand Table"} imgSrc="/img/grandtable.jpg" />
         </div>
       </section>
     </main>
